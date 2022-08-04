@@ -1,0 +1,32 @@
+
+
+body{
+   height:1000px;
+   width:1500px;
+}
+
+
+#wrapper{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#one{
+  position: relative;
+  top:-200px;
+  border: 7px solid blue;
+}
+
+#two{
+  position: relative;
+  top:-200px;
+  border: 7px solid blue;
+}
+
+#three{
+  position: relative;
+  top:-200px;
+  border: 7px solid blue;
+}
